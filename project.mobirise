@@ -927,6 +927,11 @@
               "left": "0",
               "width": "100%",
               "overflow": "hidden"
+            },
+            "@media (max-width: 800px)": {
+              ".card-box": {
+                "padding": "0rem"
+              }
             }
           },
           "_name": "features4",
@@ -1070,6 +1075,11 @@
             },
             "P": {
               "color": "#ffffff"
+            },
+            "@media (max-width: 800px)": {
+              ".card-box": {
+                "padding": "0rem"
+              }
             }
           },
           "_name": "features4",

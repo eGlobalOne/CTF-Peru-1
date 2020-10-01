@@ -1221,6 +1221,11 @@ section.lazy-placeholder:after {
   width: 100%;
   overflow: hidden;
 }
+@media (max-width: 800px) {
+  .cid-sbU0Xw5CX2 .card-box {
+    padding: 0rem;
+  }
+}
 .cid-sbTXHXxKuX {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1286,6 +1291,11 @@ section.lazy-placeholder:after {
 }
 .cid-sbTZ1cfqic P {
   color: #ffffff;
+}
+@media (max-width: 800px) {
+  .cid-sbTZ1cfqic .card-box {
+    padding: 0rem;
+  }
 }
 .cid-sbgabPM1Zk {
   padding-top: 0px;
